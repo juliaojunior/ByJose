@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Novel Format</Title>
+            <Text>Evangelho Segundo José
+
+About This Template
+When compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for novels.
+
+How To Use this Template
+Edit the Title Page document to ensure it contains the correct information.
+Create a new folder for each chapter and title each folder with the name of the chapter. If you don’t intend to use chapter names, just type something descriptive that tells you what the chapter is about. (You do not need to title the folders “Chapter One” and so on, as chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
+Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character.)
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder.
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, select the sheet and then choose Documents &gt; Duplicate to create a new copy of the document which you can move to its intended location and fill in with your character or setting details.
+Compile your manuscript into standard manuscript format by selecting File &gt; Compile.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile sheet and deselect “Title” in the list of elements to include.
+Page header: You can edit the page header in the “Page Settings” pane of the Compile sheet. You will want to enter your name and novel title in this field to replace the placeholder text there now.
+Font: You can use the “Formatting” pane in Compile to change the font used throughout the final document by selecting the document type rows and clicking the “Modify” button. This will display a sample preview of the text elements; click in the text to select it and then choose the “A” button in the format bar to change the font settings.
+Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+Rename the “Scene” document to use your chapter title and move it so that it is directly below the “Title Page” document.
+Move the “Chapter” folder to the Trash.
+Create a new text document for each chapter.
+In the “Separators” pane of the Compile sheet, change the “Text separator” setting to “Page break”.
+
+Sample Document
+See the “Sample MS” PDF file in the Research folder for an example of a document that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="4">
+            <Title>Scenes</Title>
+        </Document>
+        <Document ID="5">
+            <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>
+Cícero Julião
+Residencial Jardim Royal, Módulo 1, Quadra O, 67, Maceió-AL
++55 (82)9995-4405
+Juliaojunior@gmail.com
+
+Your agent’s name
+Your agent’s address
+&lt;$wc100&gt; words.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evangelho Segundo José
+
+by Cícero Julião</Text>
+            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.</Notes>
+        </Document>
+        <Document ID="6">
+            <Title>José negocia móveis com Abias</Title>
+            <Synopsis>Maria conta a José que está grávida</Synopsis>
+            <Text>- Quer ficar rico, José? Tanto dinheiro por alguns móveis?
+- “Alguns móveis”? Isso é quase uma ofensa! Você conhece meu trabalho, Abias. Sabe que sou cuidadoso. Esse teu pedido não me custará menos que três semanas de trabalho.
+- Não precisa ser tão cuidadoso. Faça mais simples. E abaixe o preço. Faça com qualidade, mas um pouco mais simples.
+- Assim não posso fazer. Comigo você só leva material bem feito, bem cuidado. Se não quiser assim… bom, se quiser qualquer coisa feita de qualquer jeito, fale com algum outro carpinteiro. Não tem problema. Você já é meu cliente há algum tempo. Não se preocupe, entendo que às vezes…
+- Está bem José, está bem! Não sei como você não é rico. Deveria ter riquezas, com uma conversa tão afiada. É difícil derrubar tua fala. Faz assim, como falou. Eu te pago o que está pedindo. Mas que homem difícil de negociar, meu Senhor!
+
+Ambos riem bastante. Abias já é cliente de José há alguns anos. Na verdade, o pai de Abias comprara algumas peças ao pai de José há vários anos. Os dois cresceram, cada um com sua vida. E quando Abias finalmente assumiu os negócios do pai, fez seus bens ficarem vinte vezes maiores. Sabia negociar. Seu pai falava algumas línguas estrangeiras, e ensinou a Abias tudo que aprendeu na vida. Abias, porém, nasceu com talento. E observando as conversas do pai com os clientes, aprendeu quando podia ganhar e quando precisava fugir para não perder dinheiro.
+E assim Abias voltou a encontrar José. Já um negociante próspero, resolveu dar presentes para seus irmãos. Isso poderia aliviar um pouco a rixa com eles. Abias não era o mais velho dos doze filhos de seu pai. Nem era filho da primeira esposa. Dentre as três esposas, Abias era filho da segunda. Com a morte do pai, Abias naturalmente tomou a dianteira. Todos os irmãos trabalhavam juntos, mas Abias era o mais talentoso. E com sua liderança, o negócio prosperou muito. Mas os problemas também.
+Certo dia, um velho amigo de seu pai, Marcos, sugeriu que tentasse diminuir as constantes discussões com os irmãos.
+
+- Abias, meu filho, escuta este velho. Não é bom uma divisão dentre da família.
+- Mas Marcos, não sou eu. Meus irmãos tem muita inveja. Queriam tomar o lugar de meu pai, comandar os negócios. Como eu posso mudar isso?
+- São teus irmãos, Abias.
+- Sei que são. Mas não sou culpado de não terem aprendido com nosso pai o que deveriam. Quem deles fala a língua dos etíopes? E a língua dos romanos? Só eu, Marcos, nenhum deles. Como faríamos negócios tão rapidamente? Você também negocia com esses estrangeiros, Marcos. Sabem como são.
+- Sei sim. Mas não esqueça o que disse o profeta: “experimenta a Jeová, e ele abrirá as comportas dos céus.” Nosso Deus não se agrada de famílias dividas. Lembre do Egito, quando nosso povo foi salvo da escravidão. Jeová ordenou que toda a família ficasse dentro de sua casa, com o cordeiro pascoal. Isso salvou a vida de todos. Perceba como Jeová vê as coisas. As famílias ficaram unidas naquela noite, e isso as salvou. Faz isso também hoje, Abias. Faça como o profeta falou, experimente a Jeová. Tente ficar unido com seus irmãos e Deus te abençoará.
+- Mas como fazer isso, Marcos? Já tentei muito no início. Acabei desistindo.
+- Então tente outra vez. 
+- Está bem. Talvez eu possa dar um presente aos meus irmão. Isso pode aliviar as coisas.
+- Não sei se dar presentes é um bom começo. Talvez depois. De início, acho melhor você mostrar…
+- Ah, Marcos. Aí já é complicado demais. Ajude-me a pensar em um bom presente para eles. Depois penso no resto.
+- Um bom presente… Olha, conheço um carpinteiro que vive em Nazaré. É difícil encontrar trabalho tão bem terminado. Você poderia passar por Belém em sua próxima viagem e ver por si mesmo. O que acha?
+- Acho uma boa ideia. Um bonito assento, uma bonita cama… é uma boa ideia sim. E quem é esse carpinteiro? Qual o seu nome?
+- José. Esse é seu nome, José.
+- José de Nazaré. Há alguns anos, meu pai passou por Nazaré e comprou móveis ali. Lembro de ir com ele e ficar admirado com a beleza do trabalho do carpinteiro. Será que esse José foi aprendiz do carpinteiro que conheci por lá?
+- É provável. Eu só conheço um bom carpinteiro por aquelas terras, José. E o pai dele era carpinteiro também. 
+
+E assim Abias reencontrou José, depois de tantos anos. 
+
+</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="9">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+		Role in Story:	
+
+		Occupation:	
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="10">
+            <Title>Sample MS</Title>
+        </Document>
+        <Document ID="11">
+            <Title>José</Title>
+            <Text>José
+
+		Role in Story:	Personagem principal, o romance o segue 
+
+		Occupation:	Carpinteiro
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="12">
+            <Title>Maria</Title>
+            <Text>Maria
+
+		Role in Story:	Esposa de José, mãe de Jesus
+
+		Occupation:	dona de casa
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Jesus</Title>
+            <Text>Jesus
+
+		Role in Story:	filho adotivo de José
+
+		Occupation:	aprendiz de carpinteiro
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Elisabete</Title>
+            <Text>Elisabete
+
+		Role in Story:	Prima de Maria, esposa de Zacarias, mãe de João Batista
+
+		Occupation:	dona de casa
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="15">
+            <Title>João Batista</Title>
+            <Text>João Batista
+
+		Role in Story:	primo de Jesus
+
+		Occupation:	???
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Zacarias</Title>
+            <Text>Zacarias
+
+		Role in Story:	Pai de João Batista, esposo de Elisabete
+
+		Occupation:	sacerdote
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Jesus</Title>
+            <Text>Jesus
+
+		Role in Story:	filho adotivo de José
+
+		Occupation:	aprendiz de carpinteiro
+     			
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      			
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="20">
+            <Title>Jerusalém</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="21">
+            <Title>Nazaré</Title>
+            <Text>Nazaré
+
+		Role in Story:	A estória começa nesta cidade, do distrito da Galiléia.
+
+		Related Characters:	Cidade pequena, ‘desprezada’ até mesmo pelas outras cidades do mesmo distrito da Galiléia. Próxima a rotas comerciais importantes, o povo era bem informado sobre os acontecimentos políticos da nação.
+
+		Season:	Verões bem frescos e com bastante vento. Invernos pouco rigorosos.
+
+		Unique Features:	
+Tempo de caminhada de Nazaré até
+Litoral do mediterrâneo = 7 horas
+Mar da Galiléia = 5 horas
+Jerusalém = 3 dias
+
+		Description:	Cidade pequena, parecida com uma vila. Pouco movimentada.
+
+		Sights:	A maior construção é a sinagoga, embora esta mesma seja pequena. Alguns moradores precisam prestar serviço para moradores de outras cidades, em virtude do pouco comércio e renda que circula em Nazaré.
+		Sounds:	Lugar silencioso. Possível escutar o barulho do vento nas plantações
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="22">
+            <Title>Egito</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="23">
+            <Title>Belém</Title>
+            <Text>Belém
+
+		Role in Story:	Local de nascimento de Jesus, filho adotivo de José.
+
+		Related Characters:	José, Maria, Jesus
+
+		Season:	
+
+		Unique Features:	Cidade onde nasceria o Rei dos judeus
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Belém</Title>
+            <Text>Belém
+
+		Role in Story:	Local de nascimento de Jesus, filho adotivo de José.
+
+		Related Characters:	José, Maria, Jesus
+
+		Season:	
+
+		Unique Features:	Cidade onde nasceria o Rei dos judeus
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Sinagoga</Title>
+        </Document>
+        <Document ID="26">
+            <Title>EniclopediaJudaica</Title>
+        </Document>
+        <Document ID="27">
+            <Title>belemGeo</Title>
+        </Document>
+        <Document ID="28">
+            <Title>belemClima</Title>
+        </Document>
+        <Document ID="29">
+            <Title>Scenes</Title>
+        </Document>
+        <Document ID="30">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="31">
+            <Title>José na sinagoga (logo antes da viagem a Belém)</Title>
+            <Synopsis>José está na sinagoga, ouvindo a leitura da lei. É um sábado. Como de costume, após a leitura das Escrituras, há uma explanação sobre o que foi lido. O sacerdote lê o capítulo 5 de Miquéias. No versículo 2, um amigo sentado ao lado pergunta a José se ele não seria o Messias, já que ele é de Belém 'Efrata'. Na saída da sinagoga, José comenta que sempre se perguntou sobre o fim do versículo 2, 'cuja origem é desde os tempos primitivos, desde os dias do tempo indefinido.'</Synopsis>
+            <Text>	“Agora, ajunta-te em tropas, ó filha de tropas; ele nos colocará em sítio. Ferirão, com a vara, o rosto do juiz de Israel. Mas aquela que é pequena demais para estar entre os milhares de Judá, sim tu, Belém Efrata, de ti é que me sairá aquele que há de reinar em Israel. Aquele cuja origem é desde os tempos antigos, desde sempre.”
+
+- Será você, José?
+- O que foi, Matias?
+- Será você?
+- Eu o que?
+- O messias?
+- Está maluco? Fecha essa boa e escuta a leitura.
+- Você é de Belém… poderia ser você… o messias. Se bem que… um carpinteiro…
+- O que tem eu ser um carpinteiro? - elevando o tom da voz.
+
+	O instrutor interrompe a leitura, incomodado pelo insistente ruído. “Algum amigo gostaria de questionar algo?”, pergunta o instrutor. Sem resposta, continua a leitura. Matias, porém, é insistente.
+
+- Você, um carpinteiro, poderia ser o messias. É um carpinteiro, só isso, é verdade. Mas também é descendente de Davi. - Já sem se conter com o riso, Matias ainda pergunta - “Então, você nos salvará?”
+
+	José já conhecia bem Matias. Não havia muito limite para suas brincadeiras. Dois amigos, há muito tempo. E Matias sempre aparecia com a mesma brincadeira: “Você nos salvará?” José ficava impaciente, após tantos anos precisando suportar a mesma provocação do amigo. Mas o que fazer? Matias era um brincalhão. E José não podia negar - nascido em Belém, da família real de Davi. 
+	Vez por outra José se via pensando nessa brincadeira, e como a vida seria diferente se parte dela fosse verdade… a parte da vida na família real. O reino de Judá havia desaparecido anos antes. Conquistados por nações estrangeiras, os judeus já não tinham uma casa real. E a grande glória da casa de Davi era uma lembrança contada pelos pais aos seus filhos. “Se nós não fôssemos tão rebeldes”, pensava José, “quem sabe Jeová, nosso Deus, não teria nos tratado com misericórdia.” A casa de Davi poderia estar de pé, e sua grandeza ainda traria fama entre as nações.
+	Tudo bem diferente. Não havia palácio, nem belos campos para alegrar a visão. José vivia numa casa simples, como quase todas as outras de Nazaré. O trabalho era duro na carpintaria. José se perguntava se, quando finalmente casasse com Maria, sua noiva, ele mesmo contaria essas histórias para seus filhos. Tudo era tão limitado, tão sofrido. Era preciso lutar pela sobrevivência todos os dias. Em Nazaré não havia trabalho para José, essa era a verdade. Era preciso viajar para cidades vizinhas para buscar serviço. Quase toda semana José caminhava algumas horas para cidades vizinhas. Ou para negociar com novos clientes ou para realizar entregas de seus produtos. Era uma clientela exigente. Nazaré é uma cidade pobre, mas é vizinha de outras cidades bem desenvolvidas e com muitas pessoas ricas. Essa é a rotina de José. Depois de longas jornadas de ida e vinda, José chega de volta a sua cidade com alguns pedidos. Mais algumas semanas de sustento garantido. Mais algumas semanas de trabalho em Nazaré. Nazaré… uma cidade que acolheu sua família. José mora aí desde muito jovem.
+	José nem sabe o porquê do pai ir para lá. Ainda criança, sua família se mudou para Nazaré. Moravam em Belém, de Judá. Mas a vida estava dura demais para eles. Foi preciso procurar outro lugar para, pelo menos, sobreviver. Seu pai, Jacó, fez a dura escolha de abandonar anos de labuta. O pouco que a família conseguiu juntar foi deixado para trás. Em suas mais antigas lembranças, seu pai Jacó estava sempre trabalhando. Transportando madeira, afiando as ferramentas. De fato, aprendera sua profissão na carpintaria com seu pai. Quando Jacó morreu, José já tinha grande experiência e exercia muito bem a profissão. 
+
+- Matias, pare com essas piadas durante a leitura da lei. Sabe como os instrutores são rígidos. Quer que nos expulsem?
+- Mas você é um dos filhos de Davi. Talvez até mesmo o messias. Qual instrutor ousaria apontar o dedo para você?
+- Se um anjo do Senhor descer do céu… ainda assim os instrutores não diminuiriam sua altivez. Tenha mais cuidado, meu amigo. Eles não exitariam em expulsar você, eu, ou qualquer um. Basta um pequeno desrespeito, uma pequeníssima ofensa, e os instrutores já julgam alguém como condenado. E o povo ainda respeita, você sabe.
+- Sim, sei. O povo é bobo, isso sim. Quantos desses instrutores são realmente instrutores? Se fossem de verdade, estariam na Judéia.
+- Matias, Matias… deixa essa conversa parar aqui mesmo. Você já falou demais.
+
+
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="32">
+            <Title>Viagem na gravidez</Title>
+            <Synopsis>Conversa entre José e Maria, em local próximo a Jerusalém. (Belém fica a uns 10 km de Jerusalém) Estão em um local alto, de onde se vê a cidade. Comentam sobre ela. Maria pergunta se José lembra das professias sobre o Messias, e como ele sofreria naquela cidade. José diz: 'Sim, lembro. Mas não pense nisso agora Maria.Agora devemos nos preocupar com nosso filho.' Maria responde: 'Mas é por isso mesmo, por preocupação com nosso filho'. José responde: 'Daqui a alguns dias, ele nascerá. Será apenas uma criança. Não pense nisso agora. A cada dia o seu próprio mal.' E a cena termina.</Synopsis>
+        </Document>
+        <Document ID="33">
+            <Title>José pensa sobre viajar a Belém.</Title>
+            <Synopsis>Conversa entre José, Maria, e alguns parentes. Os parentes criticam a decisão sobre viajar para Belém. 'Para que viajar nesse estado?', 'e se a criança nascer no meio do nada, no deserto?', 'porque você é sempre tão submisso, José?'
+Mas José não muda a decisão, e Maria continua apoiando o marido.
+</Synopsis>
+            <Text>- Tua esposa vai aguentar essa viagem, José, 
+- Tem que aguentar. Vamos devagar, com calma. Ela conseguira. 
+- Meu amigo, sei que tenho te incomodado muito nos ultimos anos. Continuo achando que nao devias te apegar tanto a Maria. Mas isso agora nao importa. Uma viagem dura, perigosa. E se Maria tiver o filho na estrada? Ou pior… e se ela nao conseguir ter o filho?
+
+Essas conversas se tornaram bem complicadas com o tempo. Ninguem da familia nem entre os amigos apoiava a viagem para Belem, para recadastramento exigido por Cesar. Todos odiavam os romanos, e uma ordem como essa do registro parecia absurda demais. Mas Jose tinha um motivo especial para ir.
+
+Alem da obediencia aos governantes, aprendida com o pai, Jose acreditava que o Messias …
+</Text>
+        </Document>
+        <Document ID="34">
+            <Title>José e Maria conversam sobre viagem.</Title>
+            <Synopsis>Conversa entre José e Maria, decidindo ir a Belém para o registro. Discutem a dificuldade da viagem. Maria lembra a fala de sua mãe: 'e se esse menino nascer no deserto?' José diz: 'O anjo lhe falou que nosso bebê cresceria e seria o que esparamos há tanto tempo... o Messias. Bom, o Messias nascerá em Belém, lembra? Então é para lá que iremos!'</Synopsis>
+            <Text>- Tem certeza disso, José? Talvez seja melhor esperar um pouco mais.
+- Não, devemos ir logo. Quanto mais rápido sairmos, mais rápido voltaremos. 
+- Sim, mas …
+
+Maria está preocupada com a ida até Belém. Já está grávida há quase nove meses. A qualquer momento pode nascer seu primeiro filho. É uma mulher obediente, mas essa jornada pode ser demais para ela. Apenas a confiança em José a deixa mais calma.
+
+- Eu sei que não será fácil, Maria. Mas devemos ir. Por mais difícil que pareça, se não formos podemos passar por dificuldades ainda maiores no futuro.
+- Tudo bem, José. Você tem razão. É nossos parentes falam comigo quase todos os dias sobre isso. Minha mãe sempre que me encontra fala a mesma coisa: ‘esse menino nascendo no deserto, meu Deus. Como será?’
+- Tenha paciência com eles. Sua mãe já é idosa. E todos os outros estão na mesma situação - não sabem o que temos pela frente. O anjo foi bem claro, tanto com você como comigo. Jeová, nosso Deus, entregou uma tarefa muito importante para nós. A tarefa mais importante que poderíamos ter. E não podemos procurar problemas para nós além do que já teremos. Se não formos a Belém realizar o registro, o que faremos se César começar a perseguir os que não seguiram suas ordens?
+- Sim, e já temos muita coisa para pensar.
+- Certamente, coisas demais. São tantas perguntas que tenho feito nos últimos dias sobre nossa criança. Como faremos quando ele nascer? Por exemplo, continuamos em Nazaré? Ou nos mudamos para Jerusalém?
+- Jerusalém? De onde tirou essa ideia, José?
+- Ora, ele será o Messias. O templo está em Jerusalém. Ele não devia estar perto do templo? Será que não seria melhor nos mudarmos para Jerusalém, para ele viver ao lado da casa de Deus?
+- Não sei, José. Jerusalém é uma cidade muito complicada para qualquer um. Grande, violenta. Como criaremos uma criança ali?
+- Também pensei nisso. Não deve ser fácil criar uma criança em Jerusalém. Mas pelo menos ele estaria perto do templo. Que lugar seria melhor para o Messias passar sua infância?
+- Além das oportunidades de negócios para você. Talvez fosse mais fácil.
+- É…
+- O que foi, José?
+- Penso nessas coisas, mas sempre fico em dúvida. Acho que ir morar em Jerusalém é uma boa ideia. Então penso se isso é realmente importante. Se nosso Deus quisesse que ele ficasse em Jerusalém, poderia escolher uma família de lá mesmo. Não escolheria a nós.
+- Humm…
+- O que é, Maria?
+- Talvez seja melhor pensarmos em uma coisa de cada vez. Agora, eu só consigo me preocupar com essa nossa viagem. 
+- Com isso, não tenho dúvidas. Temos que ir para o registro, em Belém. Talvez seja a vontade de Deus para nós.
+- E como isso é possível? Uma ordem de César?
+- Ora, o profeta falou que o messias viria de Belém. ‘Ó tu, Belém Efrata’, lembra? Não sei como, mas o messias deve vir de Belém. Antes do decreto de César, eu já estava pensando…
+- Então por isso você decidiu tão rápido ir a Belém? E nem me falou nada…
+- Não falei, tem razão. Mas estou falando agora. Vamos para Belém. E tenha fé. Nosso filho não nascerá no meio do deserto. Ele nascerá em Belem. A cidade de Davi. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="35">
+            <Title>Conversa: José e dono do estábulo</Title>
+            <Synopsis>José diz: 'mas minha esposa está grávida, quase para ter nosso filho'. Dono da casa: 'desculpe, mas o que posso fazer? A casa já está com o dobro de pessoas...&quot; José, triste, afasta-se da casa. Orando em voz baixa, diz: 'Então ficaremos na rua?... Jeová, nosso Deus, cuida de nós mais esta vez. Eu posso não ter valor algum... mas olha por esta tua serva, Maria. Dá-nos pelo menos um teto.&quot; Um dono da casa ao lado, escutando José, chama-o. &quot;Irmão, chega-te aqui... Minha casa também está lotada. Mas há um lugar vago. Não é um quarto, mas pelo menos não ficarás na rua com tua esposa. Pelo menos terás um teto.&quot;</Synopsis>
+        </Document>
+        <Document ID="36">
+            <Title>Nascimento de Jesus</Title>
+            <Synopsis>O estábulo é desconfortável. O ar é pesado, não tem higiene. José tenta limpar algum espaço para Maria ficar mais confortável. Quando Jesus nasce, colocam-no em uma manjedoura. Manjedoura é o lugar onde se coloca comida para os animais, um lugar nada elegante.
+</Synopsis>
+        </Document>
+        <Document ID="37">
+            <Title>José e Maria chegam ao templo para apresentar Jesus</Title>
+            <Synopsis>José e Maria encontram Simeão e Ana.</Synopsis>
+        </Document>
+        <Document ID="38">
+            <Title>Galileia</Title>
+            <Text>Galiléia
+
+		Role in Story:	A maior parte da estória ocorre neste distrito. Ali José passa quase toda sua vida na cidade de Nazaré.
+
+		Related Characters:	José, Maria, Jesus
+
+		Season:	
+
+		Unique Features:	
+A estória começa numa cidade deste distrito (Nazaré), antes do nascimento do primeiro filho (adotivo) de José, Jesus.
+Muitos estrangeiros moravam neste distrito, daí a expressão ‘Galiléia das nações’.
+Como o templo ficava em Jerusalém, um outro distrito separado da Galiléia por Samaria, os principais instrutores da Lei não moravam na Galiléia. Porém, em todas as cidades da Galiléia haviam instrutores da Lei e Sinagogas.
+Provérbio judeu da época: “Se quiser riquezas, vá para o norte (Galiléia), se quiser sabedoria vá para o sul (Judéia)”. Este ditado traduz um preconceito das pessoas da Judéia em relação aos da Galiléia, em virtude de Jerusalém ficar na Judéia. Ou seja, os galileus não eram tão apegados a tradições como os da Judéia.
+		Description:	
+
+		Sights:	Muito arborizada: cedro, cipreste, abeto, carvalho, oleandro, palmeira, pinheiro, sicômoro e nogueira são árvores encontradas na região.
+		Sounds:	O sotaque do povo galileu era diferente dos demais judeus. Provavelmente pela influência do contato com os estrangeiros. 
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="39">
+            <Title>José na sinagoga (logo após nascimento de Jesus)</Title>
+            <Synopsis>José está na sinagoga, ouvindo a leitura da lei. É um sábado. Como de costume, após a leitura das Escrituras, há uma explanação sobre o que foi lido. O sacerdote lê o capítulo 5 de Miquéias. No versículo 2, um amigo sentado ao lado pergunta a José se ele não seria o Messias, já que ele é de Belém 'Efrata'. Na saída da sinagoga, José comenta que sempre se perguntou sobre o fim do versículo 2, 'cuja origem é desde os tempos primitivos, desde os dias do tempo indefinido.'</Synopsis>
+        </Document>
+        <Document ID="40">
+            <Title>José e Jesus conversam sobre vendas no templo</Title>
+            <Synopsis>José e Jesus estão no templo em Jerusalém. José está pensativo e Jesus pergunta: 'O que foi, pai?' José diz que fica triste quando vê as vendas dentro do templo, que isto deveria ser proibido. Jesus pergunta se ninguém pode fazer nada. José responde 'um dia, Jesus... quem sabe um dia alguém expulsa esses mercenários.'
+</Synopsis>
+        </Document>
+        <Document ID="41">
+            <Title>José e Maria conversam sobre a saúde de Jesus</Title>
+            <Synopsis>Algumas vizinhas comentam que gostariam de ter um filho como Jesus, que nunca adoece, tem a saúde forte. Quando chega em casa, Maria comenta isto com José. José fala sobre os outros filhos, que sempre adoecem. </Synopsis>
+            <Text>- Jesus, ainda trabalhando, meu filho?
+- Meu pai precisa desta cadeira ainda hoje. Se não terminar, a entrega ficarã atrasada.
+- Mas Jesus, vocã precisa descansar. Estã trabalhando nisso desde cedo. Quase não almoçou. E se adoecer?
+- Nunca fiquei doente, mãe. Não se preocupe, estou ãtimo. Comi bem no almoço, e descansei um pouco logo depois. Mas preciso terminar esta cadeira.
+- Estã bem.
+
+Maria deixa seu filho no trabalho, mas sai pensativa. Entrando em casa, encontra seu marido. 
+
+- Jose, Jesus ainda </Text>
+        </Document>
+        <Document ID="42">
+            <Title>Tiberíades</Title>
+            <Text>Tiberíades
+
+		Role in Story:	Cidade onde José buscava clientes para carpintaria
+
+		Related Characters:	Marcos, rico comerciante que gosta de peças de madeira.
+
+		Season:	
+
+		Unique Features:	Fica ao lado do mar da Galiléia.
+
+		Description:	Só aparece na estoria apos Jesus completar 24 anos de idade. Construida por Herodes Antipas por volta de 21 EC. Seu nome e` uma homenagem a Tiberio Cesar, imperador do Imperio Romano na epoca de sua construcao. 
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="43">
+            <Title>Marcos comerciante</Title>
+            <Text>Marcos
+
+		Role in Story:	Faz negócios de moveis com José
+
+		Occupation:	comerciante no ramo de móveis
+     			
+
+		Physical Description:	baixa estatura, voz suave, grande barba branca. Idade ja avancada, Olhos acinzentados. Pele bem branca, castigada pelo sol. Aparencia mais velha do que a idade.
+
+		Personality:	Atencioso, bondoso, prestativo. Firme apoio a adoração do Deus de Israel, apega-se fortemente a lei de Moisés.
+
+		Habits/Mannerisms:	Constante citação do texto de Malaquias 3:10: “Experimente a Jeová, e ele abrirá as portas do céu”, enfatizando que a pessoa não tem posses por que não ‘experimenta’ a Deus.
+      			
+
+		Background:	Nascido em Belém, cresceu numa familia de comerciantes. Há algumas gerações sua familia trabalho com diversos ramos do comércio. Seu pai trabalhava com comércio de moveis para judeus ricos, de quem aprendeu a profissão.
+
+		Internal Conflicts:	Sua familia é bastante materialista, e isso o incomoda muito. Questiona-se se trocasse seu emprego por um que rendesse menos dinheiro seria melhor, se menos recursos materiais diminuiriam esse problema.
+
+		External Conflicts:	 Discute quase diariamente com a esposa, com quem é casado desde jovem, por seu demasiado materialismo. A esposa prefere ficar usufruindo dos bens do que ouvir a palavra de Deus.
+      			
+
+		Notes:	Marcos quer passar parte de seu negocio para Jose, que sempre recusa. Simpatiza muito com Jose por terem nascido na mesma cidade e por terem profissões próximas.</Text>
+        </Document>
+        <Document ID="44">
+            <Title>José conversa com parente sobre Zacarias, esposo de Elisabete.</Title>
+            <Synopsis>Parente fala a José sobre a Zacarias, esposo de Isabel. Conta-lhe que ele está mudo, e como aconteceu enquanto ele estava dentro do templo. </Synopsis>
+        </Document>
+        <Document ID="45">
+            <Title>José encontra Zacarias no templo, quando Jesus tem 12 anos</Title>
+            <Synopsis>José e Zacarias cnnversam sobre seus filhos, João e Jesus. Ambos falam sobre a personalidade dos filhos, o que sentem por eles. Lembram dos acontecimentos antes dos nascimentos. E falam sobre o que esperam deles. </Synopsis>
+        </Document>
+        <Document ID="46">
+            <Title>Jesus reclama que seus irmãos não querem ir à sinagoga</Title>
+            <Synopsis>Jesus reclama a José como seus irmãos demoram para aparecer quando estão prontos para ir à sinagoga. José ensina a Jesus que precisa de paciência.</Synopsis>
+        </Document>
+        <Document ID="47">
+            <Title>José decide morar no Egito</Title>
+            <Synopsis>José acorda assustado com sonho. Decide levar a família ao Egito, morar lá alguns anos. Maria não gosta da ideia, pergunta por que deixariam sua terra. José, para poupar Maria de preocupação, dá motivos secundários e não revela a razão principal da viagem.</Synopsis>
+        </Document>
+        <Document ID="48">
+            <Title>José na sinagoga (logo antes da viagem a Belém) copy</Title>
+            <Synopsis>José está na sinagoga, ouvindo a leitura da lei. É um sábado. Como de costume, após a leitura das Escrituras, há uma explanação sobre o que foi lido. O sacerdote lê o capítulo 5 de Miquéias. No versículo 2, um amigo sentado ao lado pergunta a José se ele não seria o Messias, já que ele é de Belém 'Efrata'. Na saída da sinagoga, José comenta que sempre se perguntou sobre o fim do versículo 2, 'cuja origem é desde os tempos primitivos, desde os dias do tempo indefinido.'</Synopsis>
+            <Text>	“Agora, ajunta-te em tropas, ó filha de tropas; ele nos colocará em sítio. Ferirão, com a vara, o rosto do juiz de Israel. Mas aquela que é pequena demais para estar entre os milhares de Judá, sim tu, Belém Efrata, de ti é que me sairá aquele que há de reinar em Israel. Aquele cuja origem é desde os tempos antigos, desde sempre.”
+
+- Será você, José?
+- O que foi, Matias?
+- Será você?
+- Eu o que?
+- O messias?
+- Está maluco? Fecha essa boa e escuta a leitura.
+- Você é de Belém… poderia ser você… o messias. Se bem que… um carpinteiro…
+- O que tem eu ser um carpinteiro? - elevando o tom da voz.
+
+	O instrutor interrompe a leitura, incomodado pelo insistente ruído. “Algum amigo gostaria de questionar algo?”, pergunta o instrutor. Sem resposta, continua a leitura. Matias, porém, é insistente.
+
+- Você, um carpinteiro, poderia ser o messias. É um carpinteiro, só isso, é verdade. Mas também é descendente de Davi. - Já sem se conter com o riso, Matias ainda pergunta - “Então, você nos salvará?”
+
+	José já conhecia bem Matias. Não havia muito limite para suas brincadeiras. Dois amigos, há muito tempo. E Matias sempre aparecia com a mesma brincadeira: “Você nos salvará?” José ficava impaciente, após tantos anos precisando suportar a mesma provocação do amigo. Mas o que fazer? Matias era um brincalhão. E José não podia negar - nascido em Belém, da família real de Davi. 
+	Vez por outra José se via pensando nessa brincadeira, e como a vida seria diferente se parte dela fosse verdade… a parte da vida na família real. O reino de Judá havia desaparecido anos antes. Conquistados por nações estrangeiras, os judeus já não tinham uma casa real. E a grande glória da casa de Davi era uma lembrança contada pelos pais aos seus filhos. “Se nós não fôssemos tão rebeldes”, pensava José, “quem sabe Jeová, nosso Deus, não teria nos tratado com misericórdia.” A casa de Davi poderia estar de pé, e sua grandeza ainda traria fama entre as nações.
+	Tudo bem diferente. Não havia palácio, nem belos campos para alegrar a visão. José vivia numa casa simples, como quase todas as outras de Nazaré. O trabalho era duro na carpintaria. José se perguntava se, quando finalmente casasse com Maria, sua noiva, ele mesmo contaria essas histórias para seus filhos. Tudo era tão limitado, tão sofrido. Era preciso lutar pela sobrevivência todos os dias. Em Nazaré não havia trabalho para José, essa era a verdade. Era preciso viajar para cidades vizinhas para buscar serviço. Quase toda semana José caminhava algumas horas para cidades vizinhas. Ou para negociar com novos clientes ou para realizar entregas de seus produtos. Era uma clientela exigente. Nazaré é uma cidade pobre, mas é vizinha de outras cidades bem desenvolvidas e com muitas pessoas ricas. Essa é a rotina de José. Depois de longas jornadas de ida e vinda, José chega de volta a sua cidade com alguns pedidos. Mais algumas semanas de sustento garantido. Mais algumas semanas de trabalho em Nazaré. Nazaré… uma cidade que acolheu sua família. José mora aí desde muito jovem.
+	José nem sabe o porquê do pai ir para lá. Ainda criança, sua família se mudou para Nazaré. Moravam em Belém, de Judá. Mas a vida estava dura demais para eles. Foi preciso procurar outro lugar para, pelo menos, sobreviver. Seu pai, Jacó, fez a dura escolha de abandonar anos de labuta. O pouco que a família conseguiu juntar foi deixado para trás. Em suas mais antigas lembranças, seu pai Jacó estava sempre trabalhando. Transportando madeira, afiando as ferramentas. De fato, aprendera sua profissão na carpintaria com seu pai. Quando Jacó morreu, José já tinha grande experiência e exercia muito bem a profissão. 
+
+- Matias, pare com essas piadas durante a leitura da lei. Sabe como os instrutores são rígidos. Quer que nos expulsem?
+- Mas você é um dos filhos de Davi. Talvez até mesmo o messias. Qual instrutor ousaria apontar o dedo para você?
+- Se um anjo do Senhor descer do céu… ainda assim os instrutores não diminuiriam sua altivez. Tenha mais cuidado, meu amigo. Eles não exitariam em expulsar você, eu, ou qualquer um. Basta um pequeno desrespeito, uma pequeníssima ofensa, e os instrutores já julgam alguém como condenado. E o povo ainda respeita, você sabe.
+- Sim, sei. O povo é bobo, isso sim. Quantos desses instrutores são realmente instrutores? Se fossem de verdade, estariam na Judéia.
+- Matias, Matias… deixa essa conversa parar aqui mesmo. Você já falou demais.
+
+
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="49">
+            <Title>José e Maria combinam sua visita a Elisabete</Title>
+        </Document>
+        <Document ID="50">
+            <Title>Abias negociante</Title>
+            <Text>Abias
+
+		Role in Story:	Faz negocios de moveis com Jose
+
+		Occupation:	negocia com estrangeiros, importa e exporta.
+     			
+
+		Physical Description:	Magro, alto, fala firme como um bom negociante. Idade próxima da idade de José. Pele escura. Aparenta ser mais jovem do que realmente é. Barba costumeira dos hebreus. 
+
+		Personality:	Firme, confiante, alegre. Adora ao Deus de Israel, mas sem muita devoção. Mais preocupado com dinheiro do que com Deus.
+
+		Habits/Mannerisms:	Repete bastante a frase “O que é isso?”
+      			
+
+		Background:	Local de nascimento desconhecido, em algum lugar nos desertos da Galiléia. O pai viajou com comerciantes e aprendeu diversas línguas estrangeiras. Aprendeu como negociar com pessoas de diferentes origens. Quando nasceu, seu pai já tinha uma condição financeira favorável, mas não era rico. Ao morrer seu pai, assumiu os negócios da família, embora não fosse o filho primogênito. Mas o talento para os negócios era claro e, mesmo sendo o terceiro de doze filhos, filho da segunda esposa entre as três de seu pai,  assumiu a dianteira nos negócios da família.
+
+		Internal Conflicts:	Admira os esforços de José na adoração a Deus, mas não faz ideia do porquê incomoda tanto ele mesmo não ser mais abnegado. 
+
+		External Conflicts:	 Alguns de seus irmãos não concordam com sua liderança nos negócios. Constantemente afrontam sua autoridade. Com firmeza e confiança, sempre administra as crises na família em virtude da disputa com os irmãos.
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="51">
+            <Title>José descobre gravidez</Title>
+            <Synopsis>Maria conta a José que está grávida</Synopsis>
+            <Text>- Um anjo, Maria? Um anjo?
+- Escuta, José!
+- Um anjo? Você não pensou em nenhuma outra saída? Algo menos… absurdo?
+- Mas José…
+- Você é minha noiva, Maria. Minha noiva… Há quanto tempo me esforço, há quanto tempo trabalho pensando só em nós dois… e você faz… faz isso…
+- José, você precisa me escutar…
+- Escutar? Essa estória sem sentido? O que eu fiz para você me odiar? A única coisa que fiz nos últimos anos foi trabalhar… trabalhar pensando em nós, Maria. O que você quer? Que eu acredite que um anjo falou com você? Você está grávida. A explicação é bem simples.
+- José eu nunca trairia você.
+- Não faça isso. Não brinque comigo ainda mais. Se não queria ficar comigo, por que não me falou? Sabe que o meu desejo de casar com você é sincero. Sempre te respeitei, nunca tentei comprar você como tantos homens fazem para ter suas esposas. Eu te amo há tanto tempo, Maria… se você me despreza, por que não me afastou antes? Pelo menos…
+- Eu não te desprezo, José. Também te amo e…
+- Como pode me amar se está grávida de outro homem?
+- Já te falei, José. Não me deitei com homem algum.
+- É verdade, esqueci que um milagre te deixou grávida. E ainda essa… nem respeitar os santos anjos… você… que tipo de pessoa você é, Maria? Pensa que sou o maior tolo da terra? Que acreditaria numa estória dessas, nessa fantasia? E um anjo? Teu filho será o Messias?
+- Foi o que o anjo me falou.
+- Se isso fosse verdade, Maria… o messias nascendo para nos livrar… ele viria de você? A noiva de um carpinteiro? Será que em todo o nosso povo não há uma mulher com a vida mais segura para criar um menino tão importante? Mesmo que isso fosse verdade, que futuro um carpinteiro poderia oferecer para ele?
+- Não sei, José. Mas nosso Deus quer dessa forma. 
+- Nosso Deus… Teu Deus é o mesmo que o meu? O Deus que eu adoro não tolera mentiras maldosas. 
+- Não estou mentindo. 
+- Maria… você está prometida em casamento a mim. Mas está grávida de outro. Sabe o que eu deveria fazer. Mas estou muito confuso. Voltarei para casa e pensarei no assunto. Pensarei no que fazer. Se tens alguma fé em nosso criador, pede perdão por esse pecado. Quem sabe ele não vê algo bom no teu coração e perdoa esse teu erro.
+- José… José…
+
+‘Situação complicada’, pensa José ao se afastar de Maria. O que teria acontecido com ela? Uma moça tão boa, tão tranquila. Sempre foi muito respeitada na cidade. Como poderia ter feito isso com ele? A mente de José está confusa, e fica mais ainda com o prosseguir de seus passos. Não há explicação, pensa ele. Seria uma maravilha - ter o messias finalmente aparecendo para salvar o povo de José. Mas não poderia ser ele o escolhido para cuidar de uma criança tão importante.
+José era um homem de fé. Percebia os excessos dos escribas, fariseus, e todos os outros que se achavam superiores ao povo. Mas isso não abalava sua confiança em seu Deus. José lembrava de quantas vezes seu povo havia abandonado a Jeová. E ainda assim, Jeová sempre tinha pena deles e algum profeta acabava aparecendo e levando o povo de volta à adoração pura. Essa fé dava confiança nas promessas contidas nas escrituras. Uma delas, a promessa de um Messias que salvaria o seu povo, era bem viva em sua mente. Mas… criado por José? Filho de sua noiva, Maria? Simplesmente não podia ser. Havia outros que se esforçavam a servir bem a Deus. Outros com melhores condições. Outros que poderiam pagar uma boa escola para a criança. Outros que não precisariam ensinar uma profissão tão pesada para o menino. Não, não poderia ser.
+De repente, José pensa em outra explicação. Claro, poderia ser. Maria era uma boa moça, uma boa serva de Jeová. Ela talvez não tivesse cometido esse pecado que doía tanto a José. Havia outra explicação… Maria poderia estar perturbada. José pensa nisso. Dói, mas Maria poderia estar louca. Sendo assim, ela talvez não precisasse ser entregue à morte por esse pecado. ‘Por outro lado’, pensa José, ‘não poderia casar com Maria’. O amor de José por sua noiva é grande, certamente. Mas se Maria estiver ficando louca, como poderiam construir uma família? Que tipo de vida ele teria com ela?
+De uma forma ou de outra, sua história com Maria havia acabado. Eram muitas as pergunta na cabeça de José, mas todas levavam ao mesmo lugar: Maria ficaria no passado. Tantos planos, e agora tudo estava sumindo. Simples alegrias e algumas grandes tristezas. Mas em grande parte das vezes, Maria fazia parte delas. Como seria daí para frente…? Não sabia.
+Ainda com mais pensamentos do que consegue suportar, José chega em casa. Está muito agitado, prefere não entrar. Decide deitar na entrada da casa, de costas - assim pode olhar para as estrelas e pensar que está longe de tudo aquilo. Mas é em vão. A imagem de Maria falando aquele absurdo não saía de sua mente. José ainda não entendia como sua noiva podia acreditar que uma estória dessas iria convencer. Isso não fazia sentido para ele. Maria é uma moça bem inteligente. Não é possível que ela pensasse em José acreditando em tão grande mentira. E a ideia de estar louca… bem, isso já não fazia tanto sentido. Ela parecia bem equilibrada.
+Antes de adormecer, José pensa ainda relutante: ‘Não há outro caminho. Amanhã começo a providenciar os arranjos para o divórcio. Farei tudo em segredo e assim evito mais dor para todos. Amanhã começo…’ 
+Caiu em um sono profundo, fruto de tanta angústia daquele dia. Tanto trabalho e, no fim do dia, uma notícia como essa. Porém, mal havia dormido e um sonho arrebata José. Ele está no meio do templo, vendo os cambistas com seus negócios, os fariseus com suas orações públicas e escandalosas. Pensa em derrubar as mesas dos comerciantes, expulsar todos dali. Como podiam manchar o lugar mais sagrado da Terra fazendo aquilo? Aproveitando-se dos pobres e explorando a todos que necessitavam de ajuda? Tinha de fazer algo.
+Fica então em dúvida sobre quem estava mais longe de seu Deus: os comerciantes desonestos ou os fariseus hipócritas? Esses também deviam ser expulsos dali. Como o povo não via que eles eram algo reprovado para Deus? Líderes injustos, explorando o povo tanto quanto os comerciantes. Talvez até mais. Dá um passo à frente e decide expulsar os comerciantes. Nem ali eles deveriam estar. Dentro do templo, que pecado!! Após o primeiro passo, pára e pensa como faria isso. É apenas um carpinteiro, como faria isso? Um mero sonho, mas tudo parece estupidamente real. José pensa como será bom quando o Messias chegar, e acabar com esses pecados. Então todos poderão servir a Jeová em paz… Messias? José lembra de Maria. Toda a angústia volta à sua mente e ele percebe que é apenas um sonho. Neste mesmo instante, uma voz atrás dele fala claramente com ele.
+- José, filho de Davi. Paz esteja contigo.
+Ele se vira para encontrar a fonte da frase. Acaba encarando um homem alto, com vestes tão brancas com a neve. Sua beleza é admirável, e José fica sem fala. As pernas começam a tremer e um forte medo começa a surgir.
+- Fica tranquilo, José. Estou aqui da parte de Jeová, teu Deus. Escuta. Não precisa temer nada em relação a Maria, tua noiva. Ela é uma jovem justa, temente a Deus.
+- Mas ainda não somos casados, e ela está grávida.
+O homem sorri, e continua falando.
+- Não tenha medo de levá-la para casa. Sim, ela está grávida. Mas ela também te falou a verdade. O filho que ela carrega não é de outro homem, mas foi produzido nela por espírito santo. 
+- Senhor…
+- Escuta, José. Ela dará a luz a esse filho. E você deve dar a ele o nome de Jesus. Ele será o Messias que você tanto espera. Ele salvará teu povo de seus pecados.
+- O messias? Perdoa-me senhor, mas sou apenas um carpinteiro. Nunca estudei nas escolas, aprendi tudo com meu pai.
+- José…
+- Perdoa-me, senhor… o mais perto que cheguei das Escrituras foi na leitura da Lei, na sinagoga. Como o messias pode ficar comigo?..
+José, não suportando mais, cai de joelhos e chora. Consegue apenas bater no peito e repetir ‘perdão… perdão’.
+Tocando em seu ombro, o anjo fala com voz consoladora.
+- José, José… tens fé no Deus de teu antepassado, Abraão?
+Quase sem voz, responde.
+- Sim, tenho.
+- Certamente, sei que tens. Também sei que esta mesma fé te sustenta. Vi quando teu pai faleceu, e como a fé em Jeová te sustentou. Vi as injustiças que você, sua família e seus amigos sofreram, e como a tua fé te manteve de pé. O Deus de Abraão, de Isaque e de Jacó estará contigo todos os dias, José. A sabedoria vinda de cima te sustentará, com já sustentou até agora. Continua a mostrar fé, e o Deus de Davi, teu pai, continuará a te conhecer por nome.
+Antes de José poder perguntar qualquer coisa, acorda admirado com o que ouviu. Nada mais importa agora. Maria é uma boa moça, afinal. Nenhum dos medos de José tinham importância. Estava na hora de fazer o que o anjo lhe falou - buscar Maria e começar a cuidar de seu filho, Jesus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="52">
+            <Title>Judas corta a mão de Jesus</Title>
+            <Synopsis>José escuta choro 'escandaloso' e corre para sua oficina. Encontra Jesus e um de seus irmãos mais novos, Judas. Judas estava brincando com as ferramentas do pai. Quando Jesus vê e o avisa para não fazer isso, Judas se assusta, solta a ferramenta e corta a mão de Jesus. José comenta que provavelmente Jesus ficará com uma grande cicatriz. Jesus está calmo, enquanto Judas está bem nervoso e pede desculpas incessantes ao irmão.
+Dias depois, José vê que a mão de Jesus já está curada, e sem nenhuma cicatriz.</Synopsis>
+        </Document>
+        <Document ID="53">
+            <Title>Matias conta a José sobre mudez de Zacarias</Title>
+            <Synopsis>José encontra com Matias e conversam sobre seu casamento com Maria e sobre a mudez de Zacarias.</Synopsis>
+            <Text>A manhã está bem quente, e José está ansioso para reencontrar Maria, sua noiva. Há cerca de três meses ela foi visitar uma parenta, Elisabete. O marido de Elisabete é Zacarias, sacerdote. Os dois são bem idosos. José sabe que sua noiva gosta muito dessa família. Mas a saudade está ficando grande e a ansiedade pela volta da noiva toma seus pensamentos praticamente a todo instante.
+
+Ao sair de casa, José encontra Matias, seu amigo. Ele não parece tão alegre, como sempre está.
+
+- Matias, bom dia meu amigo!
+- Bom dia, José. Como vai?
+- Tudo bem. Hoje minha noiva retorna. Estou ansioso, já fazem três meses.
+- José, você é muito apegado a Maria. Sei não, depois você tem algum problema…
+- Já me falou isso quantas vezes? Já sei toda essa sua conversa. Eu amo minha noiva, Matias. Maria é uma ótima moça.
+- Claro que é, não duvido disso. Mas um dia ela ficará velha. E aí? E se você quiser se casar novamente? Como fica?
+- Fica como Jeová, nosso Deus, quer. Já conversamos sobre isso, meu amigo. Você se deixa levar pelos costumes do povo. Mas nosso Deus não aprova isso.
+- Todo israelita faz isso, José. Os instrutores fazem. Qual é o problema?
+- Você não ouviu o que eu disse? O problema é que Jeová não aprova divórcio sem motivo. Lembra de Acabe, nosso vizinho? Aquele que se mudou há uns 8 meses? Ele se divorciou da esposa e casou com uma mocinha. A desculpa para o divórcio foi ela quebrar uma jarra que ele gostava.
+- Sim, mas hoje ele vive feliz. A mulher nova já está grávida.
+- E a esposa divorciada? Você sabe como ela está?
+- Não, mas…
+- Isso mesmo. Ninguém mais ouviu falar dela. Isso é errado, Matias. Não quero isso para mim. Nem para minha esposa.
+- Ela ainda é tua noiva.
+- Sim, mas em breve será minha esposa. Estou muito ansioso para reencontrar Maria. Quero combinar com ela o nosso casamento. Não precisamos esperar mais.
+- Bem, que Jeová, nosso Deus, abençoee vocês dois.
+- Daqui a algumas horas ela está de volta. Deve ter tido bons momentos com Elisabete.
+- E o marido dela, Zacarias?
+- O que tem com ele?
+- Você não soube? Onde você anda com a cabeça, José?
+- O que foi, Matias? Fala logo? Maria estava lá com eles. Aconteceu algo ruim?
+- Calma. Não sei muita coisa. Só que ele está mudo.
+- Mudo? Algum acidente.
+- Parece que não.
+- Então deve ser a idade. Zacarias e Elisabete já são idosos.
+- José, sei não. O que escutei é que ele ficou mudo depois do serviço no templo. Dizem até que ele teve uma visão. Viu alguma coisa, um anjo talvez. Ficou com tanto medo que parou de falar.
+- E como ninguém sabe o que aconteceu? Ninguém perguntou a ele?
+- Claro que sim, mas ele está mudo. Vai falar como, se está mudo? Perguntaram mas ele não cosegue falar. Isso foi o que ouvi de alguns da cidade.
+- Maria deve saber de algo. Ficou na casa deles esses meses, deve saber. Quando ela chegar pergunto. Depois de conversar sobre nosso casamento, claro.
+
+
+</Text>
+        </Document>
+        <Document ID="54">
+            <Title>Tiago</Title>
+            <Text>Tiago
+
+		Role in Story:	Primo de José (pai de Jesus)
+
+		Occupation:	instrutor na sinagoga local de Nazaré
+     			
+
+		Physical Description:	10 anos mais velho que José, pele clara e olhos bem vivos
+
+		Personality:	Atencioso, sério, pouco falante
+
+		Habits/Mannerisms:	gosta de dar conselhos, mas prefere escutar bem antes de falar
+      			
+
+		Background:	quando mais jovem, conseguiu fechar negócios com estrangeiros, tornando-se um dos mais abastados de Nazaré. Durante uma viagem para a Judéia, visitou uma sinagoga em 
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      			
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="55"/>
+        <Document ID="56">
+            <Title>José e Maria recebem os astrólogos em casa</Title>
+            <Synopsis>José e Maria recebem os astrólogos em casa, durante sua estadia em Belém.</Synopsis>
+        </Document>
+        <Document ID="57"/>
+        <Document ID="58">
+            <Title>Antes da Gravidez</Title>
+        </Document>
+        <Document ID="59"/>
+        <Document ID="60">
+            <Title>da Gravidez ao Nascimento</Title>
+        </Document>
+        <Document ID="61">
+            <Title>Do Nascimento aos 9 anos de Jesus</Title>
+        </Document>
+        <Document ID="62">
+            <Title>Dos 9 anos aos 12 anos de Jesus</Title>
+        </Document>
+        <Document ID="63">
+            <Title>Dos 12 aos 16 anos de Jesus</Title>
+        </Document>
+        <Document ID="64">
+            <Title>Dos 16 aos 22 anos de Jesus</Title>
+        </Document>
+        <Document ID="65">
+            <Title>Os ultimos seis meses de Jose</Title>
+        </Document>
+        <Document ID="66">
+            <Title>Jesus observa Jos[e negociar</Title>
+            <Synopsis>Em silencio, Jesus observa Jose negociar uma venda com um cliente. Apos o termino da negociacao, Jeus pergunta a Jose sobre como ele conseguiu fechar o negocio.</Synopsis>
+        </Document>
+        <Document ID="67">
+            <Title>Jesus tenta negociar produtos</Title>
+            <Synopsis>Um cliente chega na oficina de Jose, e Jesus tenta negociar a venda. Quase consegue, mas o cliente nao se convence. Jose chega e consegue fechar a venda.</Synopsis>
+        </Document>
+        <Document ID="68">
+            <Title>Jesus fecha uma grande venda de moveis</Title>
+            <Synopsis>Jose chega na oficina e Jesus apresenta uma lista de pedidos que um cliente deixou com ele. Jose se assusta com o tamanho da lista. Jesus entao explica como conseguiu fechar essa venda. Jesus agradece pelo esforco do pai em lhe ensinar o que sabe. Emocionado, Jose sai de perto de Jesus e ora a Jeova. Agradece pelo privilegio de criar Jesus e pergunta `quem sou eu para ensinar algo a esse rapaz]</Synopsis>
+        </Document>
+        <Document ID="69">
+            <Title>Jose percebe uma dor abaixo do ombro</Title>
+        </Document>
+        <Document ID="70">
+            <Title>Jose conversa com Maria sobre os anos de casado</Title>
+        </Document>
+        <Document ID="71">
+            <Title>Jose ora agradecendo por tudo em sua vida</Title>
+        </Document>
+        <Document ID="72">
+            <Title>Jesus encontra Jose morto na oficina</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
