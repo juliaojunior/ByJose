@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.5.0" Device="localhost" Modified="2016-07-22 14:01:14 -0300" ModID="DD277742-A0E1-46D8-8037-F5E563E1125C">
+    <Binder>
+        <BinderItem ID="3" UUID="440F725F-3C2B-43C2-914F-177B08FD147D" Created="2011-09-27 13:49:53 -0300" Modified="2013-07-11 22:32:13 -0300" Type="Text">
+            <Title>Novel Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>43,0</TextSelection>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="315CC4D0-B8C9-43B4-B6E4-95714AA8C85B" Created="2006-11-04 13:27:29 -0300" Modified="2007-03-25 18:00:41 -0300" Type="DraftFolder">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="5" UUID="0E40B713-57D8-42A4-ABAF-E9B2EF55AD61" Created="2011-09-27 13:50:33 -0300" Modified="2014-08-25 23:52:43 -0300" Type="Text">
+                    <Title>Title Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>226,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="4" UUID="F77BA929-8A46-45FE-AED1-CA732A7412B3" Created="2006-11-04 13:31:13 -0300" Modified="2014-04-29 18:30:59 -0300" Type="Folder">
+                    <Title>Scenes</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="58" UUID="591D3B31-E7B4-42F1-B82A-1E280C3A2703" Created="2016-07-22 13:42:19 -0300" Modified="2016-07-22 13:42:44 -0300" Type="Folder">
+                            <Title>Antes da Gravidez</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="31" UUID="72581CC7-7150-46B0-AC6F-BA49796FB778" Created="2013-09-11 14:55:41 -0300" Modified="2014-04-22 22:55:39 -0300" Type="Text">
+                                    <Title>José na sinagoga (logo antes da viagem a Belém)</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <PageBreakBefore>Yes</PageBreakBefore>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>373,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="6" UUID="91E6ABE0-B5C4-49FC-A03E-599D5CE0D348" Created="2006-11-04 13:33:03 -0300" Modified="2014-08-25 23:51:08 -0300" Type="Text">
+                                    <Title>José negocia móveis com Abias</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>637,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="53" UUID="6A2538B4-6D3F-4FD7-A846-98C0CA3650DB" Created="2014-09-01 18:40:55 -0300" Modified="2014-09-22 18:35:16 -0300" Type="Text">
+                                    <Title>Matias conta a José sobre mudez de Zacarias</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2873,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="51" UUID="7F7A901F-7980-4D89-ADC2-B454F7B26C3F" Created="2014-08-25 23:50:33 -0300" Modified="2014-09-01 18:41:41 -0300" Type="Text">
+                                    <Title>José descobre gravidez</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="60" UUID="2CB505B7-486B-4FDD-8791-F2813C5D0C14" Created="2016-07-22 13:43:53 -0300" Modified="2016-07-22 13:44:01 -0300" Type="Folder">
+                            <Title>da Gravidez ao Nascimento</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="33" UUID="63A09319-9CD8-4564-8051-B8E56678626F" Created="2013-09-11 15:23:09 -0300" Modified="2015-04-29 13:16:13 -0300" Type="Text">
+                                    <Title>José pensa sobre viajar a Belém.</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3470,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="34" UUID="44E4CF23-ECC3-4F69-9D97-E45A4385996D" Created="2013-09-11 15:23:24 -0300" Modified="2015-04-29 13:16:15 -0300" Type="Text">
+                                    <Title>José e Maria conversam sobre viagem.</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3001,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="32" UUID="6F26C21B-A4BA-4E62-AA1A-0B482D35BF14" Created="2013-09-11 15:01:57 -0300" Modified="2015-05-04 21:48:24 -0300" Type="Text">
+                                    <Title>Viagem na gravidez</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="35" UUID="3B2E3A79-9A35-4EFF-A102-9134F6C6547C" Created="2013-09-13 07:05:15 -0300" Modified="2014-04-29 18:31:10 -0300" Type="Text">
+                                    <Title>Conversa: José e dono do estábulo</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="36" UUID="A3123391-C40D-4FFB-A5F2-11CE34F7D946" Created="2013-09-13 07:12:00 -0300" Modified="2014-04-29 18:31:13 -0300" Type="Text">
+                                    <Title>Nascimento de Jesus</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="61" UUID="6A6642A1-EF89-4C39-BC0D-21565735E7C5" Created="2016-07-22 13:44:12 -0300" Modified="2016-07-22 13:44:34 -0300" Type="Folder">
+                            <Title>Do Nascimento aos 9 anos de Jesus</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="37" UUID="C2843ADE-3409-4F8F-A2A2-FC356A05904F" Created="2013-09-13 07:25:00 -0300" Modified="2014-04-29 18:31:14 -0300" Type="Text">
+                                    <Title>José e Maria chegam ao templo para apresentar Jesus</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="39" UUID="92E2D9B4-EAD5-46A4-B59E-8FC0E598EE01" Created="2014-01-13 12:14:59 -0300" Modified="2014-04-29 18:31:20 -0300" Type="Text">
+                                    <Title>José na sinagoga (logo após nascimento de Jesus)</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="56" UUID="0C2C15E7-9A8E-49C9-830E-1715BC76C536" Created="2015-04-29 13:08:58 -0300" Modified="2015-04-29 13:09:47 -0300" Type="Text">
+                                    <Title>José e Maria recebem os astrólogos em casa</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="47" UUID="17B4BC2E-0948-4539-A52E-972EA50C4638" Created="2014-08-25 22:58:48 -0300" Modified="2014-08-25 23:00:48 -0300" Type="Text">
+                                    <Title>José decide morar no Egito</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="62" UUID="C138EF11-28AF-428C-A177-C0F50A3B2B45" Created="2016-07-22 13:44:38 -0300" Modified="2016-07-22 13:44:48 -0300" Type="Folder">
+                            <Title>Dos 9 anos aos 12 anos de Jesus</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="40" UUID="FF6C2A7F-CC34-437A-BF76-7839C07C8BCE" Created="2014-01-20 11:30:03 -0300" Modified="2014-04-29 18:31:21 -0300" Type="Text">
+                                    <Title>José e Jesus conversam sobre vendas no templo</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="52" UUID="CCC2CFFE-7545-4401-ADD1-686F34373FA2" Created="2014-09-01 16:01:28 -0300" Modified="2014-09-01 16:04:08 -0300" Type="Text">
+                                    <Title>Judas corta a mão de Jesus</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="66" UUID="02325558-F8A1-4139-AD8F-0AD8BDFB81C3" Created="2016-07-22 13:52:50 -0300" Modified="2016-07-22 13:54:03 -0300" Type="Text">
+                                    <Title>Jesus observa Jos[e negociar</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="63" UUID="398A6971-635F-45D5-9811-3E0C4DFD186F" Created="2016-07-22 13:44:54 -0300" Modified="2016-07-22 13:45:02 -0300" Type="Folder">
+                            <Title>Dos 12 aos 16 anos de Jesus</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="41" UUID="17B0F7AD-5791-4F7E-90C2-2A5003128067" Created="2014-01-20 11:32:01 -0300" Modified="2014-04-29 21:23:36 -0300" Type="Text">
+                                    <Title>José e Maria conversam sobre a saúde de Jesus</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <FileExtension>rtf</FileExtension>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>46,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="67" UUID="0966815D-BB3E-4D79-A799-8E885E0C4CC5" Created="2016-07-22 13:54:56 -0300" Modified="2016-07-22 13:56:47 -0300" Type="Text">
+                                    <Title>Jesus tenta negociar produtos</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="64" UUID="7C7E57E4-4F9C-40A9-A6FB-8C9F9E55E7B9" Created="2016-07-22 13:45:07 -0300" Modified="2016-07-22 13:45:14 -0300" Type="Folder">
+                            <Title>Dos 16 aos 22 anos de Jesus</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="68" UUID="E566BA28-4049-4333-A4D6-23BEA658FAC6" Created="2016-07-22 13:56:57 -0300" Modified="2016-07-22 13:59:44 -0300" Type="Text">
+                                    <Title>Jesus fecha uma grande venda de moveis</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="46" UUID="8560AAC4-4634-4CB8-8902-CFC7B6698B5C" Created="2014-08-25 22:56:44 -0300" Modified="2014-08-25 22:58:45 -0300" Type="Text">
+                                    <Title>Jesus reclama que seus irmãos não querem ir à sinagoga</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="45" UUID="7D4B5718-F651-4094-9684-3C1AE6DA6B30" Created="2014-07-15 10:50:43 -0300" Modified="2014-07-15 11:31:06 -0300" Type="Text">
+                                    <Title>José encontra Zacarias no templo, quando Jesus tem 12 anos</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="65" UUID="6A5BC32E-095A-429A-9640-E2B29272401C" Created="2016-07-22 13:45:20 -0300" Modified="2016-07-22 13:45:40 -0300" Type="Folder">
+                            <Title>Os ultimos seis meses de Jose</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="69" UUID="5D664BE1-A138-4FEC-A834-6857285F2231" Created="2016-07-22 13:59:59 -0300" Modified="2016-07-22 14:00:46 -0300" Type="Text">
+                                    <Title>Jose percebe uma dor abaixo do ombro</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="70" UUID="94691132-B926-40AD-85F0-824E6EB6D46F" Created="2016-07-22 14:00:11 -0300" Modified="2016-07-22 14:00:21 -0300" Type="Text">
+                                    <Title>Jose conversa com Maria sobre os anos de casado</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="71" UUID="3CFC8DB6-6BAC-482B-B834-1499E1725963" Created="2016-07-22 14:00:24 -0300" Modified="2016-07-22 14:00:37 -0300" Type="Text">
+                                    <Title>Jose ora agradecendo por tudo em sua vida</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="72" UUID="9E5DAC81-59BD-43C3-9DCB-C995D36BB5B2" Created="2016-07-22 14:01:04 -0300" Modified="2016-07-22 14:01:12 -0300" Type="Text">
+                                    <Title>Jesus encontra Jose morto na oficina</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="57" UUID="9EA6E989-3828-4A0C-8EC6-0B979376A8F3" Created="2016-07-22 13:41:38 -0300" Modified="2016-07-22 13:41:38 -0300" Type="Text">
+                            <Title></Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="F18AD190-B573-4553-94F0-736194D29494" Created="2010-10-19 09:06:35 -0300" Modified="2010-10-19 09:06:51 -0300" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="11" UUID="A4D2AC60-E871-4C68-9DC7-D3DB32CA7D05" Created="2013-07-12 00:56:04 -0300" Modified="2013-07-12 00:57:37 -0300" Type="Text">
+                    <Title>José</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="12" UUID="78CDDB0D-83C9-48AA-88E1-BB553EEF2C97" Created="2013-07-12 00:56:18 -0300" Modified="2013-07-12 00:58:14 -0300" Type="Text">
+                    <Title>Maria</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>80,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="13" UUID="C166B485-AA0F-4331-A780-40DEB1CB94DC" Created="2013-07-12 00:56:25 -0300" Modified="2013-07-12 00:58:48 -0300" Type="Text">
+                    <Title>Jesus</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>84,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="14" UUID="6F86E398-0A22-44B9-B191-61B45E3BBB81" Created="2013-07-12 00:56:34 -0300" Modified="2013-07-12 01:00:56 -0300" Type="Text">
+                    <Title>Elisabete</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>83,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="15" UUID="74CB6925-3AC2-4608-8E9C-56E16879EA43" Created="2013-07-12 00:56:40 -0300" Modified="2013-07-12 01:00:03 -0300" Type="Text">
+                    <Title>João Batista</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>64,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="16" UUID="1745800C-DFCC-414A-A165-266D5C037533" Created="2013-07-12 00:56:51 -0300" Modified="2013-07-12 01:01:06 -0300" Type="Text">
+                    <Title>Zacarias</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>67,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="54" UUID="E4B9ED86-5DBE-4041-A40D-8D07F2AD69F1" Created="2014-09-23 11:56:10 -0300" Modified="2015-01-29 14:06:58 -0300" Type="Text">
+                    <Title>Tiago</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>542,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="43" UUID="1820FC80-4017-4C92-AD65-73090F985E5B" Created="2014-01-28 20:34:59 -0300" Modified="2014-08-25 23:36:26 -0300" Type="Text">
+                    <Title>Marcos comerciante</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>540,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="50" UUID="9784A626-2725-42DE-B09A-25BA7A065C3D" Created="2014-08-25 23:15:41 -0300" Modified="2014-08-25 23:27:20 -0300" Type="Text">
+                    <Title>Abias negociante</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1053,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="50FDA6C4-D362-433E-9A55-19FF7350B5C6" Created="2010-10-19 09:06:37 -0300" Modified="2010-10-19 09:06:56 -0300" Type="Folder">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations.tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="23" UUID="77ACE0A3-BC44-4401-882E-EF0263E91EBB" Created="2013-07-12 01:02:14 -0300" Modified="2013-08-09 21:16:37 -0300" Type="Text">
+                    <Title>Belém</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Location Sheet.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>188,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="38" UUID="0FAE3CE4-0806-4CBB-95C1-5D6B739EEEAE" Created="2014-01-10 16:47:11 -0300" Modified="2014-01-10 17:10:03 -0300" Type="Text">
+                    <Title>Galileia</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Location Sheet.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>511,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="21" UUID="1843CC44-D1B9-4108-B57D-E758563531A8" Created="2013-07-12 01:02:04 -0300" Modified="2014-01-13 13:25:23 -0300" Type="Text">
+                            <Title>Nazaré</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Location Sheet.png</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>381,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="22" UUID="B6BB75A4-4473-4375-A0AC-2578577F60C4" Created="2013-07-12 01:02:09 -0300" Modified="2013-07-12 01:02:12 -0300" Type="Text">
+                    <Title>Egito</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Location Sheet.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="20" UUID="2E0A1170-47E1-4F82-9F6E-3F5D5D79652D" Created="2013-07-12 01:01:56 -0300" Modified="2013-07-12 01:02:01 -0300" Type="Text">
+                    <Title>Jerusalém</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Location Sheet.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="42" UUID="6557920B-745B-4206-8FA5-C3AE443E627B" Created="2014-01-28 10:32:17 -0300" Modified="2014-01-28 18:12:56 -0300" Type="Text">
+                    <Title>Tiberíades</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Location Sheet.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>451,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="83FC9BE0-8BAD-43C4-8B6C-EF44C675C043" Created="2006-11-04 13:27:29 -0300" Modified="2006-11-04 13:27:29 -0300" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="25" UUID="2F9EA637-AAAD-47CD-BDA7-A11743CA768A" Created="2013-08-09 21:17:14 -0300" Modified="2013-08-09 21:17:19 -0300" Type="Folder">
+                    <Title>Sinagoga</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="26" UUID="3C53B569-5DB4-4CBE-9EE0-46C8EF7010EE" Created="2013-08-09 20:39:37 -0300" Modified="2013-08-09 21:18:07 -0300" Type="PDF">
+                            <Title>EniclopediaJudaica</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="27" UUID="1947C018-12EF-4876-BEAB-7D7E1DE1DDAB" Created="2013-08-09 21:30:57 -0300" Modified="2013-08-09 21:30:57 -0300" Type="PDF">
+                    <Title>belemGeo</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="28" UUID="5CF34F8E-411D-4043-A6E3-C5627DB4FBCE" Created="2013-08-09 21:33:23 -0300" Modified="2013-08-09 21:33:24 -0300" Type="PDF">
+                    <Title>belemClima</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="10" UUID="E99BAA05-5DC1-482A-B269-6E67F63E7D76" Created="2011-10-27 04:27:12 -0300" Modified="2011-10-27 04:41:41 -0300" Type="PDF">
+            <Title>Sample MS</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>pdf</FileExtension>
+            </MetaData>
+            <MediaSettings>
+                <CurrentPDFPage>1</CurrentPDFPage>
+            </MediaSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="7" UUID="BA73D94E-04BE-4BF4-9CD4-C82F674DD7AE" Created="2011-09-28 04:04:16 -0300" Modified="2011-09-28 04:04:16 -0300" Type="Folder">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="9" UUID="13B8B031-1185-4A12-9CF1-37B0EA71AA09" Created="2011-09-28 04:04:16 -0300" Modified="2011-10-18 04:57:41 -0300" Type="Text">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="8" UUID="D64E2ED6-F674-4E88-BAD6-318E849A9A8F" Created="2011-09-28 04:04:16 -0300" Modified="2011-10-18 04:58:00 -0300" Type="Text">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Location Sheet.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="DF870AB2-810C-45C9-9204-A99AEBD2C47D" Created="2006-11-04 13:27:29 -0300" Modified="2006-11-04 13:27:29 -0300" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="59" UUID="FB8DE566-9079-4D99-BAA2-E4336B4A8B86" Created="2016-07-22 13:43:32 -0300" Modified="2016-07-22 13:43:32 -0300" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
+            <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
+            <Label ID="6" Color="0.913725 0.098039 0.184314">Character Notes</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.000000">Chapter</Label>
+            <Label ID="4" Color="0.274510 0.556863 1.000000">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Never" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2016-07-22 13:41:06 -0300"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="A4" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

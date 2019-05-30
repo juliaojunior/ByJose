@@ -307,31 +307,6 @@ E assim Abias reencontrou José, depois de tantos anos.
         <Document ID="18">
             <Title>Places</Title>
         </Document>
-        <Document ID="19">
-            <Title>Jesus</Title>
-            <Text>Jesus
-
-		Role in Story:	filho adotivo de José
-
-		Occupation:	aprendiz de carpinteiro
-     			
-
-		Physical Description:	
-
-		Personality:	
-
-		Habits/Mannerisms:	
-      			
-
-		Background:	
-
-		Internal Conflicts:	
-
-		External Conflicts:	 
-      			
-
-		Notes:	</Text>
-        </Document>
         <Document ID="20">
             <Title>Jerusalém</Title>
             <Text>Name of Setting
@@ -416,26 +391,6 @@ Jerusalém = 3 dias
 
 		Notes:	</Text>
         </Document>
-        <Document ID="24">
-            <Title>Belém</Title>
-            <Text>Belém
-
-		Role in Story:	Local de nascimento de Jesus, filho adotivo de José.
-
-		Related Characters:	José, Maria, Jesus
-
-		Season:	
-
-		Unique Features:	Cidade onde nasceria o Rei dos judeus
-
-		Description:	
-
-		Sights:	
-		Sounds:	
-		Smells:	
-
-		Notes:	</Text>
-        </Document>
         <Document ID="25">
             <Title>Sinagoga</Title>
         </Document>
@@ -447,12 +402,6 @@ Jerusalém = 3 dias
         </Document>
         <Document ID="28">
             <Title>belemClima</Title>
-        </Document>
-        <Document ID="29">
-            <Title>Scenes</Title>
-        </Document>
-        <Document ID="30">
-            <Title>Scene</Title>
         </Document>
         <Document ID="31">
             <Title>José na sinagoga (logo antes da viagem a Belém)</Title>
@@ -668,10 +617,6 @@ Maria deixa seu filho no trabalho, mas sai pensativa. Entrando em casa, encontra
 
 		Notes:	Marcos quer passar parte de seu negocio para Jose, que sempre recusa. Simpatiza muito com Jose por terem nascido na mesma cidade e por terem profissões próximas.</Text>
         </Document>
-        <Document ID="44">
-            <Title>José conversa com parente sobre Zacarias, esposo de Elisabete.</Title>
-            <Synopsis>Parente fala a José sobre a Zacarias, esposo de Isabel. Conta-lhe que ele está mudo, e como aconteceu enquanto ele estava dentro do templo. </Synopsis>
-        </Document>
         <Document ID="45">
             <Title>José encontra Zacarias no templo, quando Jesus tem 12 anos</Title>
             <Synopsis>José e Zacarias cnnversam sobre seus filhos, João e Jesus. Ambos falam sobre a personalidade dos filhos, o que sentem por eles. Lembram dos acontecimentos antes dos nascimentos. E falam sobre o que esperam deles. </Synopsis>
@@ -683,50 +628,6 @@ Maria deixa seu filho no trabalho, mas sai pensativa. Entrando em casa, encontra
         <Document ID="47">
             <Title>José decide morar no Egito</Title>
             <Synopsis>José acorda assustado com sonho. Decide levar a família ao Egito, morar lá alguns anos. Maria não gosta da ideia, pergunta por que deixariam sua terra. José, para poupar Maria de preocupação, dá motivos secundários e não revela a razão principal da viagem.</Synopsis>
-        </Document>
-        <Document ID="48">
-            <Title>José na sinagoga (logo antes da viagem a Belém) copy</Title>
-            <Synopsis>José está na sinagoga, ouvindo a leitura da lei. É um sábado. Como de costume, após a leitura das Escrituras, há uma explanação sobre o que foi lido. O sacerdote lê o capítulo 5 de Miquéias. No versículo 2, um amigo sentado ao lado pergunta a José se ele não seria o Messias, já que ele é de Belém 'Efrata'. Na saída da sinagoga, José comenta que sempre se perguntou sobre o fim do versículo 2, 'cuja origem é desde os tempos primitivos, desde os dias do tempo indefinido.'</Synopsis>
-            <Text>	“Agora, ajunta-te em tropas, ó filha de tropas; ele nos colocará em sítio. Ferirão, com a vara, o rosto do juiz de Israel. Mas aquela que é pequena demais para estar entre os milhares de Judá, sim tu, Belém Efrata, de ti é que me sairá aquele que há de reinar em Israel. Aquele cuja origem é desde os tempos antigos, desde sempre.”
-
-- Será você, José?
-- O que foi, Matias?
-- Será você?
-- Eu o que?
-- O messias?
-- Está maluco? Fecha essa boa e escuta a leitura.
-- Você é de Belém… poderia ser você… o messias. Se bem que… um carpinteiro…
-- O que tem eu ser um carpinteiro? - elevando o tom da voz.
-
-	O instrutor interrompe a leitura, incomodado pelo insistente ruído. “Algum amigo gostaria de questionar algo?”, pergunta o instrutor. Sem resposta, continua a leitura. Matias, porém, é insistente.
-
-- Você, um carpinteiro, poderia ser o messias. É um carpinteiro, só isso, é verdade. Mas também é descendente de Davi. - Já sem se conter com o riso, Matias ainda pergunta - “Então, você nos salvará?”
-
-	José já conhecia bem Matias. Não havia muito limite para suas brincadeiras. Dois amigos, há muito tempo. E Matias sempre aparecia com a mesma brincadeira: “Você nos salvará?” José ficava impaciente, após tantos anos precisando suportar a mesma provocação do amigo. Mas o que fazer? Matias era um brincalhão. E José não podia negar - nascido em Belém, da família real de Davi. 
-	Vez por outra José se via pensando nessa brincadeira, e como a vida seria diferente se parte dela fosse verdade… a parte da vida na família real. O reino de Judá havia desaparecido anos antes. Conquistados por nações estrangeiras, os judeus já não tinham uma casa real. E a grande glória da casa de Davi era uma lembrança contada pelos pais aos seus filhos. “Se nós não fôssemos tão rebeldes”, pensava José, “quem sabe Jeová, nosso Deus, não teria nos tratado com misericórdia.” A casa de Davi poderia estar de pé, e sua grandeza ainda traria fama entre as nações.
-	Tudo bem diferente. Não havia palácio, nem belos campos para alegrar a visão. José vivia numa casa simples, como quase todas as outras de Nazaré. O trabalho era duro na carpintaria. José se perguntava se, quando finalmente casasse com Maria, sua noiva, ele mesmo contaria essas histórias para seus filhos. Tudo era tão limitado, tão sofrido. Era preciso lutar pela sobrevivência todos os dias. Em Nazaré não havia trabalho para José, essa era a verdade. Era preciso viajar para cidades vizinhas para buscar serviço. Quase toda semana José caminhava algumas horas para cidades vizinhas. Ou para negociar com novos clientes ou para realizar entregas de seus produtos. Era uma clientela exigente. Nazaré é uma cidade pobre, mas é vizinha de outras cidades bem desenvolvidas e com muitas pessoas ricas. Essa é a rotina de José. Depois de longas jornadas de ida e vinda, José chega de volta a sua cidade com alguns pedidos. Mais algumas semanas de sustento garantido. Mais algumas semanas de trabalho em Nazaré. Nazaré… uma cidade que acolheu sua família. José mora aí desde muito jovem.
-	José nem sabe o porquê do pai ir para lá. Ainda criança, sua família se mudou para Nazaré. Moravam em Belém, de Judá. Mas a vida estava dura demais para eles. Foi preciso procurar outro lugar para, pelo menos, sobreviver. Seu pai, Jacó, fez a dura escolha de abandonar anos de labuta. O pouco que a família conseguiu juntar foi deixado para trás. Em suas mais antigas lembranças, seu pai Jacó estava sempre trabalhando. Transportando madeira, afiando as ferramentas. De fato, aprendera sua profissão na carpintaria com seu pai. Quando Jacó morreu, José já tinha grande experiência e exercia muito bem a profissão. 
-
-- Matias, pare com essas piadas durante a leitura da lei. Sabe como os instrutores são rígidos. Quer que nos expulsem?
-- Mas você é um dos filhos de Davi. Talvez até mesmo o messias. Qual instrutor ousaria apontar o dedo para você?
-- Se um anjo do Senhor descer do céu… ainda assim os instrutores não diminuiriam sua altivez. Tenha mais cuidado, meu amigo. Eles não exitariam em expulsar você, eu, ou qualquer um. Basta um pequeno desrespeito, uma pequeníssima ofensa, e os instrutores já julgam alguém como condenado. E o povo ainda respeita, você sabe.
-- Sim, sei. O povo é bobo, isso sim. Quantos desses instrutores são realmente instrutores? Se fossem de verdade, estariam na Judéia.
-- Matias, Matias… deixa essa conversa parar aqui mesmo. Você já falou demais.
-
-
-
-
-
-
-
-
-
-
-
-</Text>
-        </Document>
-        <Document ID="49">
-            <Title>José e Maria combinam sua visita a Elisabete</Title>
         </Document>
         <Document ID="50">
             <Title>Abias negociante</Title>
@@ -901,7 +802,6 @@ Ao sair de casa, José encontra Matias, seu amigo. Ele não parece tão alegre, 
 
 		Notes:	</Text>
         </Document>
-        <Document ID="55"/>
         <Document ID="56">
             <Title>José e Maria recebem os astrólogos em casa</Title>
             <Synopsis>José e Maria recebem os astrólogos em casa, durante sua estadia em Belém.</Synopsis>
